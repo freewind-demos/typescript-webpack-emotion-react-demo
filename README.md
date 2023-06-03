@@ -1,7 +1,7 @@
-TypeScript React "webpack-bundle-analyzer" Demo
+TypeScript Webpack "@emotion/react" Demo
 =================================
 
-对webpack生成的bundle文件进行分析，图形化方式看到其内容及占比
+在webpack下使用@emotion/react
 
 ```
 npm install
